@@ -1,0 +1,16 @@
+bossAttack / width : 89 , height : 80
+meteor / width : 57, height : 123
+
+wizardWaitingMotion / width : 116, height : 92 / 아래공간 : 18
+wizardAttackMotion / width : 63, height : 112 / 아래 공간 : 16
+wizardSkillMotion / width : 80, height : 110 / 아래 공간 : 14
+
+warriorWaitingMotion / width : 69, height : 79
+warriorAttackMotion / width : 107, height : 75
+warriorSkillMotion / width : 137, height : 67
+
+fireball / width : 74, height : 45
+swordSwing / width : 110, height : 89
+swordSkillSwing / width :110, height : 104
+
+
